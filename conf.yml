@@ -3,7 +3,9 @@ preset:
   json_home: ./data_json
   dataset: D
   enframe: no
-  data_home: /home/wang/datasets/DNS-Challenge/DNS-Challenge/make_data/
+ # data_home: /home/wang/datasets/DNS-Challenge/DNS-Challenge/make_data/
+  dns_home: /content/drive/MyDrive/STARGAN/dns_datas
+
 train:
   batch_size: 2
   epochs: 1000
